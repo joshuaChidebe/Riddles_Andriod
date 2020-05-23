@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="question1">At night I come without being called at day I am lost without being stolen what am I?</string>
+    <string name="question2">Three eyes have I,all in a row when the red one opens,all freeze?</string>
+    <string name="question3">What does "Mill+Walk+kee?</string>
+    <string name="question4">What gets wetter and wetter the more it dries?</string>
+    <string name="question5">No sooner spoken than broken.What is it?</string>
+    <string name="question6">I am weightless,but you can see me.Put me in a bucket and I will make it lighter?</string>
+    <string name="question7">What is so fragile that when you say its name you break it?</string>
+    <string name="question8">I have a tail,and a head,but i have no body what am I?</string>
+    <string name="question9">What falls but does not break,and what breaks but does not fall</string>
+    <string name="question10">Throw away the outside  and cook the inside.Then you eat the outside and throw away the inside What did you eat? </string>
+    <string name="question11"></string>
+    <string name="question12">Throw away the outside  and cook the inside.Then you eat the outside and throw away the inside What did you eat? </string>
+
+    <string name="CAnswer1">Star</string>
+    <string name="CAnswer2">Traffic light</string>
+    <string name="CAnswer3">Milwauke</string>
+    <string name="CAnswer4">Towel</string>
+    <string name="CAnswer5">Sam sad</string>
+    <string name="CAnswer6">A hole</string>
+    <string name="CAnswer7">Silence</string>
+    <string name="CAnswer8">Coin</string>
+    <string name="CAnswer9">A hol</string>
+    <string name="CAnswer10">An ear of a corn</string>
+
+    <string name="WAnswer1">Bank</string>
+    <string name="WAnswer2">Light</string>
+    <string name="WAnswer3">Milwaukee</string>
+    <string name="WAnswer4">Bag</string>
+    <string name="WAnswer5">Sam</string>
+    <string name="WAnswer6">Night breaks and day falls </string>
+    <string name="WAnswer7">Sam</string>
+    <string name="WAnswer8">Snake</string>
+    <string name="WAnswer9">Paper</string>
+    <string name="WAnswer10">An ear</string>
+
+    <string name="WWAnswer1">Ban</string>
+    <string name="WWAnswer2">Light OF DAY</string>
+    <string name="WWAnswer3">Milkyway</string>
+    <string name="WWAnswer4">Bag set</string>
+    <string name="WWAnswer5">Silence</string>
+    <string name="WWAnswer6">A test hole</string>
+    <string name="WWAnswer7">Sam</string>
+    <string name="WWAnswer8">con</string>
+    <string name="WWAnswer9">Night falls and day breaks</string>
+    <string name="WWAnswer10">An ear of an apple</string>
+</resources>
